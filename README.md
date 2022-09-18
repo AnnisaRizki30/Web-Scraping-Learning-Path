@@ -1,1 +1,1 @@
-# Web-Scraping-Learnng-Path
+# Web-Scraping-Learning-Path
