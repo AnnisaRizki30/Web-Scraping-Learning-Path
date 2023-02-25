@@ -1,0 +1,11 @@
+git+https://github.com/tweepy/tweepy.git
+git+https://github.com/kevctae/twint.git
+nest-asyncio
+snscrape
+tqdm
+selenium
+beautifulsoup4
+lxml
+google-play-scraper
+pygments
+scrapy
